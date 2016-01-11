@@ -1,0 +1,40 @@
+[30-Dec-2015 12:20:58 CST6CDT] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/index.php on line 9
+[30-Dec-2015 12:41:42 CST6CDT] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/nuevo_usuario.php on line 111
+[30-Dec-2015 13:31:29 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/omarecom/domains/omare.com.mx/public_html/api/nuevo_usuario.php on line 190
+[30-Dec-2015 13:32:26 CST6CDT] PHP Parse error:  syntax error, unexpected $end in /home/omarecom/domains/omare.com.mx/public_html/api/nuevo_usuario.php on line 190
+[30-Dec-2015 13:32:33 America/Mexico_City] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/nuevo_usuario.php on line 118
+[30-Dec-2015 14:25:30 America/Mexico_City] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omarecom/domains/omare.com.mx/public_html/api/editar_zona.php on line 24
+[30-Dec-2015 14:25:50 America/Mexico_City] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/editar_zona.php on line 98
+[30-Dec-2015 14:26:11 America/Mexico_City] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omarecom/domains/omare.com.mx/public_html/api/editar_zona.php on line 100
+[30-Dec-2015 14:26:27 America/Mexico_City] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omarecom/domains/omare.com.mx/public_html/api/editar_zona.php on line 104
+[30-Dec-2015 14:29:03 America/Mexico_City] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omarecom/domains/omare.com.mx/public_html/api/editar_zona.php on line 24
+[30-Dec-2015 17:20:36 America/Mexico_City] PHP Fatal error:  Call to a member function fetchObject() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/editar_plan.php on line 31
+[01-Jan-2016 23:52:30 America/Mexico_City] PHP Notice:  Undefined variable: region_id in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_ciudad.php on line 17
+[01-Jan-2016 23:52:30 America/Mexico_City] PHP Notice:  Undefined variable: region_id in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_ciudad.php on line 17
+[01-Jan-2016 23:53:09 America/Mexico_City] PHP Notice:  Undefined variable: guardar_ciudad in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_ciudad.php on line 97
+[01-Jan-2016 23:53:09 America/Mexico_City] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_ciudad.php on line 97
+[01-Jan-2016 23:53:53 America/Mexico_City] PHP Notice:  Undefined variable: region_id in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_ciudad.php on line 19
+[01-Jan-2016 23:58:48 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/omarecom/domains/omare.com.mx/public_html/api/editar_ciudad.php on line 36
+[02-Jan-2016 11:50:00 America/Mexico_City] PHP Notice:  Undefined index: region_ciudad in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 19
+[02-Jan-2016 11:50:00 America/Mexico_City] PHP Notice:  Undefined index: nombre_ciudad in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 20
+[02-Jan-2016 13:00:39 America/Mexico_City] PHP Notice:  Undefined variable: guardar_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 141
+[02-Jan-2016 13:00:39 America/Mexico_City] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 141
+[02-Jan-2016 13:19:28 America/Mexico_City] PHP Notice:  Undefined index: nombre_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 40
+[02-Jan-2016 13:19:28 America/Mexico_City] PHP Notice:  Undefined variable: description in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 65
+[02-Jan-2016 13:20:27 America/Mexico_City] PHP Notice:  Undefined index: nombre_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 40
+[02-Jan-2016 13:34:05 America/Mexico_City] PHP Notice:  Undefined index: longitud_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 76
+[02-Jan-2016 13:34:34 America/Mexico_City] PHP Notice:  Undefined index: latitud_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 75
+[02-Jan-2016 13:34:34 America/Mexico_City] PHP Notice:  Undefined index: longitud_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 76
+[02-Jan-2016 13:39:06 America/Mexico_City] PHP Notice:  Undefined index: usuario_usuario in /home/omarecom/domains/omare.com.mx/public_html/api/nav.php on line 17
+[02-Jan-2016 13:39:06 America/Mexico_City] PHP Notice:  Undefined index: usuario_tipo in /home/omarecom/domains/omare.com.mx/public_html/api/nav.php on line 32
+[02-Jan-2016 13:39:06 America/Mexico_City] PHP Notice:  Undefined variable: guardar_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 173
+[02-Jan-2016 13:39:06 America/Mexico_City] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 173
+[02-Jan-2016 13:49:39 America/Mexico_City] PHP Deprecated:  Function ereg_replace() is deprecated in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 159
+[02-Jan-2016 13:54:38 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 15
+[03-Jan-2016 01:20:23 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 49
+[03-Jan-2016 01:21:24 America/Mexico_City] PHP Warning:  Invalid argument supplied for foreach() in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 49
+[05-Jan-2016 01:37:43 America/Mexico_City] PHP Catchable fatal error:  Object of class stdClass could not be converted to string in /home/omarecom/domains/omare.com.mx/public_html/api/editar_zona.php on line 100
+[07-Jan-2016 00:48:33 America/Mexico_City] PHP Notice:  Undefined index: usuario_usuario in /home/omarecom/domains/omare.com.mx/public_html/api/nav.php on line 17
+[07-Jan-2016 00:48:33 America/Mexico_City] PHP Notice:  Undefined index: usuario_tipo in /home/omarecom/domains/omare.com.mx/public_html/api/nav.php on line 32
+[07-Jan-2016 00:48:33 America/Mexico_City] PHP Notice:  Undefined variable: guardar_restaurante in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 237
+[07-Jan-2016 00:48:33 America/Mexico_City] PHP Fatal error:  Call to a member function rowCount() on a non-object in /home/omarecom/domains/omare.com.mx/public_html/api/agregar_restaurante.php on line 237
